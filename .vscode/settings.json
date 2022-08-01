@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "iostream": "cpp",
+    "unistd.h": "c",
+    "errno.h": "c",
+    "stdlib.h": "c",
+    "string.h": "c",
+    "stdio.h": "c",
+    "types.h": "c",
+    "deque": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
